@@ -1,0 +1,2 @@
+Boss HP: 9999999
+Boss_Stat: Invulnerable
